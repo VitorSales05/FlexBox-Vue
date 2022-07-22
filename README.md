@@ -1,3 +1,3 @@
 # FlexBox-Vue
-Simulador de layout***************************
+Simulador de layout
 
